@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Tzer-Rurng (John) Su 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Tzer-Rurng (John) Su 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tzer-Rurng (John)
+last_name: Su 
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧪
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Oregon State University
+    url: https://engineering.oregonstate.edu/academics/programs/chemical-engineering
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'johnsu50610@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+PhD student in chemical engineering specializing in development of metal-organic frameworks (MOFs) and semi-conductor device fabrication using the same. Possesses a strong understanding of gas sensing and detection technologies, with hands-on experience in designing advanced gas sensors. A collaborative team player with proven leadership and mentorship experience, consistently guiding teams toward successful outcomes in both research and technical projects. 
